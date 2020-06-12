@@ -12,8 +12,10 @@ Example- Google Analytics or other analytics code, Live Chat Code, Messenger Cha
   Example- Google Analytics, Live Chat, Messenger Chat etc code.
   
 <h4> Features</h4>
-* You can disable injection for every segment i.e. head, header, footer by turning that off.
-* Only a single database query.
+<ul>
+  <li>You can disable injection for every segment i.e. head, header, footer by turning that off.</li>
+  <li>Only a single database query.</li>
+</ul>
 
 <h4> License</h4>
 GPL License. Free to use, share, modify and redistribute.
