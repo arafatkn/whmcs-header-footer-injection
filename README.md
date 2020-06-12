@@ -1,5 +1,5 @@
 # Header & Footer Code Injection for WHMCS
-A module designed to inject static code (i.e. js, css, html) to header &amp; footer of clientarea.
+A module designed to inject static code (i.e. js, css, html) to head, header &amp; footer of clientarea.
 Example- Google Analytics or other analytics code, Live Chat Code, Messenger Chat, FB Pixel tracking etc and anything you can add.
 
 <h5> 1. Code in Head (between <head></head> tag i.e. JS, CSS, Meta, OG etc)</h5>
