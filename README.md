@@ -1,6 +1,6 @@
 # Header & Footer Code Injection for WHMCS
-A module designed to inject static code (i.e. js, css, html) to head, header &amp; footer of clientarea.
-Example- Google Analytics or other analytics code, Live Chat Code, Messenger Chat, FB Pixel tracking etc and anything you can add.
+A module designed to inject static code (i.e. js, css, html) to head, header &amp; footer of client area.
+Example- Google Analytics or other analytics code, Live Chat Code, Messenger Chat, FB Pixel tracking etc. and anything you can add.
 
 <h5> 1. Code in Head (between <head></head> tag i.e. JS, CSS, Meta, OG etc)</h5>
   Example- FB Pixel Tracking.
@@ -19,7 +19,7 @@ Example- Google Analytics or other analytics code, Live Chat Code, Messenger Cha
 
 <h4> How to Install</h4>
 <ul>
-  <li>Go to Your %WHMCS_PATH%/modules/addons and create the folder "arafatkn_header_footer_injection" and upload the two files "arafatkn_header_footer_injection.php" & "hooks.php"</li>
+  <li>Go to Your %WHMCS_PATH%/modules/addons and create the folder "kn_header_footer_injection" and upload the two files "kn_header_footer_injection.php" & "hooks.php"</li>
   <li>Then Go to Admin Panel >> Addon Modules >> Active the "Header & Footer Injection"</li>
   <li>Then click on "Configure" and paste the codes and "Save Changes".</li>
 </ul>
